@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shopping_provider_app/common/presentation/shopping_cart_button.dart';
-import 'package:shopping_provider_app/common/product_provider.dart';
-import 'package:shopping_provider_app/features/shopping_main/presentation/shopping_list_item.dart';
+import 'package:shopping_provider_app/common/provider/product_provider.dart';
+import 'package:shopping_provider_app/features/shopping_main/shopping_list_item.dart';
 
 class ShoppingMainScreen extends StatelessWidget {
   const ShoppingMainScreen({super.key});
