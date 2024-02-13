@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shoooooping_provider_app/common/domain/product.dart';
-import 'package:shoooooping_provider_app/features/shopping_details/shopping_details_screen.dart';
+import 'package:shopping_provider_app/common/domain/product.dart';
+import 'package:shopping_provider_app/features/shopping_details/shopping_details_screen.dart';
 
 class ShoppingListItem extends StatelessWidget {
   final Product product;

@@ -1,4 +1,4 @@
-import 'package:shoooooping_provider_app/common/domain/product.dart';
+import 'package:shopping_provider_app/common/domain/product.dart';
 
 List<Product> getDefaultProducts() {
   return [
